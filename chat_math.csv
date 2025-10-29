@@ -1,0 +1,161 @@
+text,intent
+hi,greeting
+hello,greeting
+hey there,greeting
+good morning,greeting
+good evening,greeting
+bye,bye
+goodbye,bye
+see you later,bye
+exit,bye
+quit,bye
+give me study tips,tips
+how should I prepare for exams,tips
+suggest some ways to study,tips
+any advice for revision,tips
+share exam preparation tips,tips
+what is the syllabus,syllabus
+show me class 10 physics syllabus,syllabus
+list chapters of physics,syllabus
+give syllabus for physics,syllabus
+tell me physics chapters,syllabus
+tell me about chapter 1,chapter_1
+what is chapter 1,chapter_1
+chapter one details,chapter_1
+explain light reflection and refraction,chapter_1
+first chapter info,chapter_1
+topics of chapter 1,topics_ch1
+chapter 1 topics,topics_ch1
+what are the topics in chapter 1,topics_ch1
+explain topics of first chapter,topics_ch1
+syllabus of light chapter,topics_ch1
+resources of chapter 1,resources_ch1
+give me resources for chapter 1,resources_ch1
+study materials for chapter 1,resources_ch1
+notes of light chapter,resources_ch1
+where can I find resources for chapter 1,resources_ch1
+tell me about chapter 2,chapter_2
+chapter two details,chapter_2
+explain human eye colourful world,chapter_2
+what is chapter 2,chapter_2
+second chapter info,chapter_2
+topics of chapter 2,topics_ch2
+chapter 2 topics,topics_ch2
+what are the topics in chapter 2,topics_ch2
+explain topics of second chapter,topics_ch2
+syllabus of human eye chapter,topics_ch2
+resources of chapter 2,resources_ch2
+give me resources for chapter 2,resources_ch2
+study materials for chapter 2,resources_ch2
+notes of human eye chapter,resources_ch2
+where can I find resources for chapter 2,resources_ch2
+tell me about chapter 3,chapter_3
+what is chapter 3,chapter_3
+chapter three details,chapter_3
+explain electricity,chapter_3
+third chapter info,chapter_3
+topics of chapter 3,topics_ch3
+chapter 3 topics,topics_ch3
+what are the topics in chapter 3,topics_ch3
+explain topics of third chapter,topics_ch3
+syllabus of electricity chapter,topics_ch3
+resources of chapter 3,resources_ch3
+give me resources for chapter 3,resources_ch3
+study materials for chapter 3,resources_ch3
+notes of electricity chapter,resources_ch3
+where can I find resources for chapter 3,resources_ch3
+tell me about chapter 4,chapter_4
+what is chapter 4,chapter_4
+chapter four details,chapter_4
+explain magnetic effects,chapter_4
+fourth chapter info,chapter_4
+topics of chapter 4,topics_ch4
+chapter 4 topics,topics_ch4
+what are the topics in chapter 4,topics_ch4
+explain topics of fourth chapter,topics_ch4
+syllabus of magnetism chapter,topics_ch4
+resources of chapter 4,resources_ch4
+give me resources for chapter 4,resources_ch4
+study materials for chapter 4,resources_ch4
+notes of magnetism chapter,resources_ch4
+where can I find resources for chapter 4,resources_ch4
+tell me about chapter 5,chapter_5
+what is chapter 5,chapter_5
+chapter five details,chapter_5
+explain sources of energy,chapter_5
+fifth chapter info,chapter_5
+topics of chapter 5,topics_ch5
+chapter 5 topics,topics_ch5
+what are the topics in chapter 5,topics_ch5
+explain topics of fifth chapter,topics_ch5
+syllabus of energy chapter,topics_ch5
+resources of chapter 5,resources_ch5
+give me resources for chapter 5,resources_ch5
+study materials for chapter 5,resources_ch5
+notes of energy chapter,resources_ch5
+where can I find resources for chapter 5,resources_ch5
+tell me about chapter 6,chapter_6
+what is chapter 6,chapter_6
+chapter six details,chapter_6
+explain our environment,chapter_6
+sixth chapter info,chapter_6
+topics of chapter 6,topics_ch6
+chapter 6 topics,topics_ch6
+what are the topics in chapter 6,topics_ch6
+explain topics of sixth chapter,topics_ch6
+syllabus of environment chapter,topics_ch6
+resources of chapter 6,resources_ch6
+give me resources for chapter 6,resources_ch6
+study materials for chapter 6,resources_ch6
+notes of environment chapter,resources_ch6
+where can I find resources for chapter 6,resources_ch6
+tell me about chapter 7,chapter_7
+what is chapter 7,chapter_7
+chapter seven details,chapter_7
+explain management of natural resources,chapter_7
+seventh chapter info,chapter_7
+topics of chapter 7,topics_ch7
+chapter 7 topics,topics_ch7
+what are the topics in chapter 7,topics_ch7
+explain topics of seventh chapter,topics_ch7
+syllabus of resources chapter,topics_ch7
+resources of chapter 7,resources_ch7
+give me resources for chapter 7,resources_ch7
+study materials for chapter 7,resources_ch7
+notes of resources chapter,resources_ch7
+where can I find resources for chapter 7,resources_ch7
+tell me about chapter 8,chapter_8
+what is chapter 8,chapter_8
+chapter eight details,chapter_8
+explain chemical reactions,chapter_8
+eighth chapter info,chapter_8
+topics of chapter 8,topics_ch8
+chapter 8 topics,topics_ch8
+what are the topics in chapter 8,topics_ch8
+explain topics of eighth chapter,topics_ch8
+syllabus of reactions chapter,topics_ch8
+resources of chapter 8,resources_ch8
+give me resources for chapter 8,resources_ch8
+study materials for chapter 8,resources_ch8
+notes of reactions chapter,resources_ch8
+where can I find resources for chapter 8,resources_ch8
+tell me about chapter 9,chapter_9
+what is chapter 9,chapter_9
+chapter nine details,chapter_9
+explain acids bases salts,chapter_9
+ninth chapter info,chapter_9
+topics of chapter 9,topics_ch9
+chapter 9 topics,topics_ch9
+what are the topics in chapter 9,topics_ch9
+explain topics of ninth chapter,topics_ch9
+syllabus of acids chapter,topics_ch9
+resources of chapter 9,resources_ch9
+give me resources for chapter 9,resources_ch9
+study materials for chapter 9,resources_ch9
+notes of acids chapter,resources_ch9
+where can I find resources for chapter 9,resources_ch9
+give me resources,resources_general
+resources please,resources_general
+study materials please,resources_general
+suggest some resources,resources_general
+notes and references,resources_general
